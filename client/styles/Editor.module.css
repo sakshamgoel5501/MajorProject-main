@@ -1,0 +1,32 @@
+.main {
+    height: 100vh;
+    /* background-image: linear-gradient(to right, #ffefba, #ffffff); */
+    background-image: linear-gradient(to right, #ff6e7f, #bfe9ff);
+}
+
+.sql {
+    height: 80vh;
+    width: 45vw;
+    float: left;
+    padding-left: 4vw;
+    padding-top: 18vh;
+}
+
+.runButton {
+    cursor: pointer;
+    margin-top: 45vh;
+    float: left;
+    margin-left: 2vw;
+}
+  
+.graphQL {
+    height: 80vh;
+    width: 45vw;
+    float: right;
+    padding-right: 4vw;
+    padding-top: 18vh;
+}
+
+
+  
+  

@@ -1,0 +1,15 @@
+{
+    "CRUD": ["UPDATE"],
+    "COLUMN": [
+        "salary",
+        "last_name",
+        "first_name"
+    ],
+    "TABLE": ["employees"],
+    "VALUE": [
+        "5000",
+        "'Doe'",
+        "'John'"
+    ],
+    "WHERE": ["employee_id = 1000"]
+}
